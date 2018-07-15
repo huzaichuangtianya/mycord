@@ -1,0 +1,4 @@
+#Sun Jul 15 09:47:39 CST 2018
+base.0=/home/quliang/workspace/cordovaws/mycord/platforms/android/app/build/intermediates/transforms/dexMerger/debug/9
+renamed.0=classes.dex
+file.0=/home/quliang/workspace/cordovaws/mycord/platforms/android/app/build/intermediates/transforms/dexMerger/debug/9/classes.dex
